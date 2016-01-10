@@ -6,27 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T19:27:33.936Z'
-dateModified: '2016-01-10T19:27:14.713Z'
+datePublished: '2016-01-10T20:42:55.231Z'
+dateModified: '2016-01-10T20:42:49.324Z'
 title: Announcing the launch of the Land and Expand newsletter.
 author: []
+sourcePath: _posts/2016-01-10-announcing-the-launch-of-the-land-and-expand-newsletter.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-10-announcing-the-launch-of-the-land-and-expand-newsletter.md
-published: true
 url: announcing-the-launch-of-the-land-and-expand-newsletter/index.html
 _type: Article
 
 ---
 # Announcing the launch of the Land and Expand newsletter.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5011ab2e85d9569fcf3093c9026acbdd55df0898.jpg)
 
-There is no question that I fell out of the blogging habit in 2015\. One post in the entire year is a pretty poor showing. Sorry about that. Ideas have however been percolating in the background. Let's see if it catches on, if not I will file under nothing ventured, nothing gained ;) New year, new projects . 
-
-There is no question that I fell out of the blogging habit in 2015\. One post in the entire year is a pretty poor showing. Sorry about that. Ideas have however been percolating in the background. 
+There is no question that I fell out of the blogging habit in 2015\. One post in the entire year is a pretty poor showing. Sorry about that. Ideas have however been percolating in the background.
 
 One of the biggest challenges of working in the tech start up space is keeping up with the relentless flow of news and analysis. Knowledge is power after all. 
 
