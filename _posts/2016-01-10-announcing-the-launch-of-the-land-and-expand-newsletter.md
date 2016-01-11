@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T06:56:54.101Z'
-dateModified: '2016-01-11T06:56:48.598Z'
+datePublished: '2016-01-11T06:59:18.389Z'
+dateModified: '2016-01-11T06:59:13.128Z'
 title: Announcing the launch of the Land and Expand newsletter.
 author: []
 sourcePath: _posts/2016-01-10-announcing-the-launch-of-the-land-and-expand-newsletter.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Announcing the launch of the Land and Expand newsletter.
-![London from a hot air balloon](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8169e87efc90e04259772e5282d146a86a247d77.jpg)
+![London from a hot air balloon](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbccfc4e9aa512bba6c007e0b0f31d9bd17650e5.jpg)
 
 There is no question that I fell out of the blogging habit in 2015\. One post in the entire year is a pretty poor showing. Sorry about that. Ideas have however been percolating in the background.
 
