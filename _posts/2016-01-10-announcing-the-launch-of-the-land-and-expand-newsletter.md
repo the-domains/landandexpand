@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-11T06:59:18.389Z'
-dateModified: '2016-01-11T06:59:13.128Z'
+datePublished: '2016-01-28T08:28:16.298Z'
+dateModified: '2016-01-28T08:28:12.912Z'
 title: Announcing the launch of the Land and Expand newsletter.
 author: []
 sourcePath: _posts/2016-01-10-announcing-the-launch-of-the-land-and-expand-newsletter.md
