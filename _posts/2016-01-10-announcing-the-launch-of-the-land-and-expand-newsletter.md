@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-28T08:28:16.298Z'
+datePublished: '2016-01-28T08:28:16.225Z'
 dateModified: '2016-01-28T08:28:12.912Z'
 title: Announcing the launch of the Land and Expand newsletter.
 author: []
